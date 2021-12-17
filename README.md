@@ -11,3 +11,4 @@ Exploratory Data Analysis, Data Preprocessing, Feature Extraction, and Model Imp
 
 KNN, MLP and RBF SVM shows the best accuracy and other classifiers did not work well. The reason might be the dataset is highly non-linear. Since the number of features is only five, KNN works pretty well in this problem.
 
+[accuracy](https://github.com/sai-shi/Children-learning-process-prediction/blob/main/accuracy.png)
